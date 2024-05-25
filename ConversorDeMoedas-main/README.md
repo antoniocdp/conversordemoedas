@@ -4,7 +4,7 @@
 Este é um simples aplicativo de linha de comando para converter entre diferentes moedas usando a taxa de câmbio atual.
 
 ## Funcionalidades
-- Converte entre diferentes moedas, como Dólar, Real Brasileiro, Peso Argentino e Peso Colombiano.
+- Converte entre diferentes moedas, como Dólar, Real Brasileiro, Dinar do Kuwait e  Libra Esterlina.
 - Utiliza a API de conversão de moedas [ExchangeRate-API](https://www.exchangerate-api.com/).
 - Interface simples de linha de comando para facilitar a interação do usuário.
 
